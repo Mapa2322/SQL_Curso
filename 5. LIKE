@@ -1,0 +1,3 @@
+SELECT * FROM users WHERE mail LIKE '%@gamil.com';
+SELECT * FROM users WHERE mail LIKE 'lli%';
+SELECT * FROM users WHERE mail LIKE '%@%';
