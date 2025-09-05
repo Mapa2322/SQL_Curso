@@ -1,0 +1,3 @@
+SELECT * FROM users WHERE not mail ='martha13002mp@gamil.com' 
+SELECT * FROM users WHERE not mail ='martha13002mp@gamil.com' AND age = 20;
+SELECT * FROM users WHERE not mail ='martha13002mp@gamil.com' or age = 23;
