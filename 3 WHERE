@@ -1,1 +1,2 @@
-    SELECT * FROM users WHERE age = 15;
+SELECT * FROM users WHERE age = 15;
+SELECT distinct name FROM users WHERE age = 23;
