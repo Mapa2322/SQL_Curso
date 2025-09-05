@@ -1,0 +1,2 @@
+SELECT * FROM users WHERE mail is NULL;
+SELECT * FROM users WHERE mail is not NULL
